@@ -1,0 +1,6 @@
+iancullinane.com:
+  image: eignhpants/alignedsoftware.com:stable
+  ports:
+    - 10000:10000
+  expose:
+    - 10000
